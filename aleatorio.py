@@ -9,7 +9,6 @@ numero_secreto = random.randint(1, 10)
 intentos = 0
 
 # Mostrar un mensaje de bienvenida
-print("HOLA KARINA")
 print("Bienvenido al juego de adivinar el número.")
 print("Tienes 10 intentos para adivinar el número secreto.")
 
